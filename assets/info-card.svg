@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470">
+<rect width="760" height="470" rx="12" fill="#050807" stroke="#303b35"/>
+<text x="28" y="42" fill="#39d353" font-family="monospace" font-size="22">amal@github:~$ whoami</text>
+<text x="28" y="100" fill="#f0f5f1" font-family="monospace" font-size="38" font-weight="bold">Amal Joe</text>
+<text x="28" y="134" fill="#39d353" font-family="monospace" font-size="18">Co-Founder &amp; CTO | Developer / Builder</text>
+<path d="M28 158H732" stroke="#39d353" opacity=".7"/>
+<g font-family="monospace" font-size="17" fill="#dce5df">
+<text x="28" y="202"><tspan fill="#39d353">ROLE   </tspan>Building products from idea to deployment</text>
+<text x="28" y="239"><tspan fill="#39d353">FOCUS  </tspan>Full-stack development · Automation · AI</text>
+<text x="28" y="276"><tspan fill="#39d353">BUILD  </tspan>VERTEXX · Jarvis AI · Edith · Friday</text>
+<text x="28" y="313"><tspan fill="#39d353">WEB    </tspan>amal42.pages.dev</text>
+<text x="28" y="350"><tspan fill="#39d353">GITHUB </tspan>github.com/gamingwithsolex-ui</text></g>
+<path d="M28 378H732" stroke="#303b35"/>
+<text x="28" y="418" fill="#39d353" font-family="monospace" font-size="19">&gt; Acta non verba.</text>
+<text x="28" y="448" fill="#87958c" font-family="monospace" font-size="12">Always learning. Always building.</text></svg>
